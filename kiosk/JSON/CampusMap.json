@@ -1,0 +1,330 @@
+[
+	{
+		"name": "O'Neill Library",
+		"type": "Library",
+		"lat": "42.33616712250903",
+		"long": "-71.16922974586487",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Gasson",
+		"type": "Academic/Administrative",
+		"lat": "42.33566747878498",
+		"long": "-71.17051720619202",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Bapst Library",
+		"type": "Library",
+		"lat": "42.33658745463098",
+		"long": "-71.1713433265686",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Burns Library",
+		"type": "Library",
+		"lat": "42.336916580652066",
+		"long": "-71.17147743701935",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "St. Mary's",
+		"type": "Academic/Administrative",
+		"lat": "42.33694433818954",
+		"long": "-71.17031872272491",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Comm. Ave. Garage",
+		"type": "Parking",
+		"lat": "42.3369760610745",
+		"long": "-71.1691814661026",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Maloney",
+		"type": "Academic/Administrative",
+		"lat": "42.33639711590495",
+		"long": "-71.1685699224472",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Devlin",
+		"type": "Academic/Administrative",
+		"lat": "42.33529472611967",
+		"long": "-71.16965353488922",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Lyons",
+		"type": "Academic/Administrative",
+		"lat": "42.335009211945625",
+		"long": "-71.17101609706879",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Higgins",
+		"type": "Academic/Administrative",
+		"lat": "42.33514007276962",
+		"long": "-71.1688220500946",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Fulton",
+		"type": "",
+		"lat": "42.33452542108062",
+		"long": "-71.17009341716766",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Stokes",
+		"type": "Academic/Administrative",
+		"lat": "42.334323179533996",
+		"long": "-71.17118775844574",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Carney",
+		"type": "",
+		"lat": "42.333613346213475",
+		"long": "-71.1706405878067",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "McElroy Commons",
+		"type": "Dining",
+		"lat": "42.33333575558503",
+		"long": "-71.171954870224",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "McGuinn",
+		"type": "Academic/Administrative",
+		"lat": "42.33380369336488",
+		"long": "-71.1697393655777",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Campion",
+		"type": "Academic/Administrative",
+		"lat": "42.33388300450794",
+		"long": "-71.168532371521",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Cushing",
+		"type": "Academic/Administrative",
+		"lat": "42.334335076113554",
+		"long": "-71.16913855075836",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Merkert Chemistry Center",
+		"type": "Academic/Administrative",
+		"lat": "42.333926625593975",
+		"long": "-71.16726636886597",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Conte Forum",
+		"type": "Athletics",
+		"lat": "42.335199554872325",
+		"long": "-71.16753995418549",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Alumni Stadium",
+		"type": "Athletics",
+		"lat": "42.335151969194676",
+		"long": "-71.16645634174347",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Ignacio",
+		"type": "Residential",
+		"lat": "42.33771361363866",
+		"long": "-71.16978228092194",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Voute",
+		"type": "Residential",
+		"lat": "42.33809031725602",
+		"long": "-71.17054402828217",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Rubenstein",
+		"type": "Residential",
+		"lat": "42.338482879677166",
+		"long": "-71.1693423986435",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Gabelli",
+		"type": "Residential",
+		"lat": "42.33881596102178",
+		"long": "-71.16954624652863",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "90 St. Thomas More",
+		"type": "Residential",
+		"lat": "42.33872476035282",
+		"long": "-71.16805493831635",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Robsham Theater",
+		"type": "Academic/Administrative",
+		"lat": "42.33785636474869",
+		"long": "-71.16822123527527",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Corcoran Commons",
+		"type": "Dining",
+		"lat": "42.338022907300804",
+		"long": "-71.16772770881653",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "St. Ignatius Church",
+		"type": "Religious",
+		"lat": "42.339426605571205",
+		"long": "-71.1670732498169",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Vanderslice",
+		"type": "Residential",
+		"lat": "42.33843529648391",
+		"long": "-71.16691768169403",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Stayer",
+		"type": "Residential",
+		"lat": "42.33887543964763",
+		"long": "-71.16624712944031",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Walsh",
+		"type": "",
+		"lat": "42.33803876847325",
+		"long": "-71.16515278816223",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Edmonds",
+		"type": "Residential",
+		"lat": "42.33717829408996",
+		"long": "-71.16491138935089",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Flynn Recreation Complex",
+		"type": "Athletics",
+		"lat": "42.33670245066546",
+		"long": "-71.16719126701355",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Tennis Courts",
+		"type": "Athletics",
+		"lat": "42.33704347215192",
+		"long": "-71.16618812084198",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Yawkey Center",
+		"type": "Athletics",
+		"lat": "42.33598867877757",
+		"long": "-71.16648316383362",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Service",
+		"type": "Service",
+		"lat": "42.33431128295216",
+		"long": "-71.16839826107025",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Beacon Street Garage",
+		"type": "Parking",
+		"lat": "42.33483473042338",
+		"long": "-71.1656141281128",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "More Hall",
+		"type": "Academic/Administrative",
+		"lat": "42.3396684826167",
+		"long": "-71.16535663604736",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Theology & Ministry Library",
+		"type": "Library",
+		"lat": "42.342999022718104",
+		"long": "-71.16366684436798",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "Shea Field",
+		"type": "Athletics",
+		"lat": "42.33470783446679",
+		"long": "-71.16400480270386",
+		"info": "",
+		"imgsrc": ""
+	},
+	{
+		"name": "66",
+		"type": "Residential",
+		"lat": "42.33921248413159",
+		"long": "-71.16860210895538",
+		"info": "",
+		"imgsrc": ""
+	} 
+]

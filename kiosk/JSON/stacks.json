@@ -1,0 +1,228 @@
+[
+    {
+        "range": "ab",
+        "subclasses": [
+            "General works",
+            "Philosophy"
+        ]
+    },
+    {
+        "range": "bbf",
+        "subclasses": [
+            "Philosophy",
+            "Psychology"
+        ]
+    },
+    {
+        "range": "bfbl",
+        "subclasses": [
+            "Psychology",
+            "Relgions"
+        ]
+    },
+    {
+        "range": "blbs",
+        "subclasses": [
+            "Judaism",
+            "Islam",
+            "Christianity"
+        ]
+    },
+    {
+        "range": "bsbx",
+        "subclasses": [
+            "The Bible",
+            "Theology"
+        ]
+    },
+    {
+        "range": "bxd",
+        "subclasses": [
+            "Christian denominations",
+            "History (general)"
+        ]
+    },
+    {
+        "range": "dda",
+        "subclasses": [
+            "History (general)",
+            "Great Britain"
+        ]
+    },
+    {
+        "range": "dda",
+        "subclasses": [
+            "History (general)",
+            "Great Britain"
+        ]
+    },
+    {
+        "range": "dadx",
+        "subclasses": [
+            "World history"
+        ]
+    },
+    {
+        "range": "ef",
+        "subclasses": [
+            "History of the Americas"
+        ]
+    },
+    {
+        "range": "ggv",
+        "subclasses": [
+            "Geograpy",
+            "Anthropology",
+            "Recreation"
+        ]
+    },
+    {
+        "range": "gvhb",
+        "subclasses": [
+            "Social Sciences (general)"
+        ]
+    },
+    {
+        "range": "hbhc",
+        "subclasses": [
+            "Economics"
+        ]
+    },
+    {
+        "range": "hchd",
+        "subclasses": [
+            "Economics"
+        ]
+    },
+    {
+        "range": "hdhm",
+        "subclasses": [
+            "Finance",
+            "Sociology"
+        ]
+    },
+    {
+        "range": "hmjx",
+        "subclasses": [
+            "Sociology",
+            "Political Science"
+        ]
+    },
+    {
+        "range": "jxkf",
+        "subclasses": [
+            "Law"
+        ]
+    },
+    {
+        "range": "kfml",
+        "subclasses": [
+            "Law",
+            "Music"
+        ]
+    },
+    {
+        "range": "mlp",
+        "subclasses": [
+            "Music",
+            "Fine arts"
+        ]
+    },
+    {
+        "range": "ppa",
+        "subclasses": [
+            "Linguistics"
+        ]
+    },
+    {
+        "range": "papl",
+        "subclasses": [
+            "Languages"
+        ]
+    },
+    {
+        "range": "pnpq",
+        "subclasses": [
+            "French literature",
+            "Italian literature",
+            "Spanish literature"
+        ]
+    },
+    {
+        "range": "pqpr",
+        "subclasses": [
+            "French literature",
+            "Italian literature",
+            "Spanish literature",
+            "English literature"
+        ]
+    },
+    {
+        "range": "pr",
+        "subclasses": [
+            "English literature"
+        ]
+    },
+    {
+        "range": "prpt",
+        "subclasses": [
+            "English literature",
+            "American literature",
+            "Germanic literature"
+        ]
+    },
+    {
+        "range": "qqa",
+        "subclasses": [
+            "Science (general)",
+            "Mathematics"
+        ]
+    },
+    {
+        "range": "qaqc",
+        "subclasses": [
+            "Mathematics",
+            "Physics"
+        ]
+    },
+    {
+        "range": "qc",
+        "subclasses": [
+            "Physics"
+        ]
+    },
+    {
+        "range": "qcqh",
+        "subclasses": [
+            "Physics",
+            "Chemistry",
+            "Geology"
+        ]
+    },
+    {
+        "range": "qhr",
+        "subclasses": [
+            "Biology",
+            "Medicine"
+        ]
+    },
+    {
+        "range": "rrj",
+        "subclasses": [
+            "Medicine"
+        ]
+    },
+    {
+        "range": "rkvm",
+        "subclasses": [
+            "Nursing",
+            "Technology"
+        ]
+    },
+    {
+        "range": "z",
+        "subclasses": [
+            "Bibliography", "Library Science"
+        ]
+    }
+]

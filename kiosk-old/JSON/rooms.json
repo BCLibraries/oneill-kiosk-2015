@@ -1,0 +1,1325 @@
+[
+    {
+        "id": "104",
+        "name": "Government Documents & Microfiche",
+        "people": [],
+        "img": "room104.jpg",
+        "type": "public",
+        "floor": "1",
+        "notes": ""
+    },
+    {
+        "id": "100",
+        "name": "Reading and Studying Area",
+        "people": [],
+        "img": "room100.jpg",
+        "type": "public",
+        "floor": "1",
+        "notes": ""
+    },
+    {
+        "id": "103",
+        "name": "Level One Gallery",
+        "people": [],
+        "img": "room103.jpg",
+        "type": "public",
+        "floor": "1",
+        "notes": ""
+    },
+    {
+        "id": "101",
+        "name": "Group Study Room",
+        "people": [],
+        "img": "room101.jpg",
+        "type": "public",
+        "floor": "1",
+        "notes": ""
+    },
+    {
+        "id": "259",
+        "name": "Academic Development Center",
+        "people": [],
+        "img": "",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "257",
+        "name": "Classroom",
+        "people": [],
+        "img": "room257.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "256",
+        "name": "Classroom",
+        "people": [],
+        "img": "room256.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "255",
+        "name": "Classroom",
+        "people": [],
+        "img": "room255.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "254",
+        "name": "Classroom",
+        "people": [],
+        "img": "room254.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "253",
+        "name": "Classroom",
+        "people": [],
+        "img": "room253.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "250",
+        "name": "CTRC",
+        "people": [],
+        "img": "room250.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "248",
+        "name": "Walk-in Help Desk",
+        "people": [],
+        "img": "room248.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "247",
+        "name": "Classroom",
+        "people": [],
+        "img": "room247.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "246",
+        "name": "Classroom",
+        "people": [],
+        "img": "room246.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "245",
+        "name": "Classroom",
+        "people": [],
+        "img": "room245.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "231",
+        "name": "Conference Room",
+        "people": [],
+        "img": "",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "228",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Webster, Kelly",
+                "img": "",
+                "phone": "2-0164",
+                "email": "kelly.webster@bc.edu",
+                "title": "Head, Metadata Services"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "229",
+        "name": "Office",
+        "people": [
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "230",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Moon, Young",
+                "img": "",
+                "phone": "2-3207",
+                "email": "young.moon.2@bc.edu",
+                "title": "Head, Continuing & Electronic Resources"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "227",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "McKelvey, Betsy",
+                "img": "",
+                "phone": "2-1989",
+                "email": "elizabeth.mckelvey@bc.edu",
+                "title": "Head, Digital Library Programs"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "226",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Critch, Meg",
+                "img": "",
+                "phone": "2-1069",
+                "email": "margaret.critch@bc.edu",
+                "title": "Senior Metadata Librarian"
+            },
+            {
+                "id": "",
+                "name": "Doan, Kathryn",
+                "img": "",
+                "phone": "2-8495",
+                "email": "kathryn.doan@bc.edu",
+                "title": "Senior Metadata & Systems Librarian"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "222",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Donovan, Bill",
+                "img": "",
+                "phone": "2-1370",
+                "email": "bill.donovan@bc.edu",
+                "title": "Digital Imaging & Curation Manager"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "219",
+        "name": "Scan Lab",
+        "people": [
+            {
+                "id": "",
+                "name": "Jupiter-McIntosh, Carolyn",
+                "img": "",
+                "phone": "2-4453",
+                "email": "carolyn.jupiter-mcintosh@bc.edu",
+                "title": "Document Services Specialist"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "214",
+        "name": "Digitization Lab",
+        "people": [
+            {
+                "id": "",
+                "name": "Rubin, Naomi",
+                "img": "",
+                "phone": "2-1945",
+                "email": "naomi.rubin@bc.edu",
+                "title": "Digital Imaging Assistant"
+            },
+            {
+                "id": "",
+                "name": "Ostrowski, Cheryl",
+                "img": "",
+                "phone": "2-0946",
+                "email": "cheryl.ostrowski@bc.edu",
+                "title": "Digital Content Specialist"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "212A",
+        "name": "Technical Services",
+        "people": [
+            {
+                "id": "",
+                "name": "Benning, Kate",
+                "img": "",
+                "phone": "2-3244",
+                "email": "katherine.benning@bc.edu",
+                "title": "Monographic Acquisitions Librarian"
+            },
+            {
+                "id": "",
+                "name": "Busenbark, Larry",
+                "img": "",
+                "phone": "2-2253",
+                "email": "lawrence.busenbark@bc.edu",
+                "title": "Metadata Specialist/Bibliographer for African & African American Studies, Latin American Studies and Romance Languages"
+            },
+            {
+                "id": "",
+                "name": "Dumouchel, Amy",
+                "img": "",
+                "phone": "2-4464",
+                "email": "amy.dumouchel@bc.edu",
+                "title": "Electronic Resources Librarian"
+            },
+            {
+                "id": "",
+                "name": "King, George",
+                "img": "",
+                "phone": "2-4993",
+                "email": "george.king@bc.edu",
+                "title": "Acquisitions and Gifts Assistant"
+            },
+            {
+                "id": "",
+                "name": "Malcolm, George",
+                "img": "",
+                "phone": "2-3699",
+                "email": "george.malcolm@bc.edu",
+                "title": "Senior Cataloging Assistant"
+            },
+            {
+                "id": "",
+                "name": "McDonough, Margo",
+                "img": "",
+                "phone": "2-4419",
+                "email": "marguerite.mcdonough@bc.edu",
+                "title": "Senior Acquisitions & Cataloging Assistant"
+            },
+            {
+                "id": "",
+                "name": "Meuse, Brian",
+                "img": "",
+                "phone": "2-8462",
+                "email": "brian.meuse@bc.edu",
+                "title": "Digital Collections Systems Librarian"
+            },
+            {
+                "id": "",
+                "name": "Perry, Pamela",
+                "img": "",
+                "phone": "2-0884",
+                "email": "pamela.perry.2@bc.edu",
+                "title": "Monographic Cataloging Librarian"
+            },
+            {
+                "id": "",
+                "name": "Rees, Dorothea",
+                "img": "",
+                "phone": "2-1484",
+                "email": "dorothea.rees@bc.edu",
+                "title": "Senior Acquisitions & Cataloging Assistant"
+            },
+            {
+                "id": "",
+                "name": "Shea, Maureen",
+                "img": "",
+                "phone": "2-6434",
+                "email": "maureen.shea.2@bc.edu",
+                "title": "Acquisitions/Fiscal Assistant"
+            },
+            {
+                "id": "",
+                "name": "Wang, Chienru",
+                "img": "",
+                "phone": "2-0025",
+                "email": "chienru.wang@bc.edu",
+                "title": "Cataloging Assistant"
+            },
+            {
+                "id": "",
+                "name": "White, Gail",
+                "img": "",
+                "phone": "2-0018",
+                "email": "gail.white@bc.edu",
+                "title": "Tech Support Specialist"
+            },
+            {
+                "id": "",
+                "name": "Williams, Roderick",
+                "img": "",
+                "phone": "2-1485",
+                "email": "roderick.willams@bc.edu",
+                "title": "Cataloging Assistant"
+            },
+            {
+                "id": "",
+                "name": "Whitacre, Lindsay",
+                "img": "",
+                "phone": "2-1404",
+                "email": "lindsay.whitacre@bc.edu",
+                "title": "Assistant Digital Collections Librarian"
+            },
+            {
+                "id": "",
+                "name": "Wilson, Shirley",
+                "img": "",
+                "phone": "2-1486",
+                "email": "shirley.wilson@bc.edu",
+                "title": "Cataloging Assistant"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "211",
+        "name": "Media Classroom",
+        "people": [],
+        "img": "room211.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "209",
+        "name": "Book Lab",
+        "people": [
+            {
+                "id": "",
+                "name": "Bates, Frances",
+                "img": "",
+                "phone": "2-2778",
+                "email": "frances.bates@bc.edu",
+                "title": "Preservation & Conservation Specialist"
+            }
+        ],
+        "img": "",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "208",
+        "name": "Hardware Repair",
+        "people": [],
+        "img": "room208.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "206",
+        "name": "Media Collection",
+        "people": [],
+        "img": "",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "205D",
+        "name": "Faculty Preview Room",
+        "people": [],
+        "img": "",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "205B",
+        "name": "Listening Booth",
+        "people": [],
+        "img": "room205B.jpg",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "205A",
+        "name": "Tip O'Neill Exhibit",
+        "people": [],
+        "img": "room205A.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "205",
+        "name": "Media Department",
+        "people": [
+            {
+                "id": "",
+                "name": "Edwards, Cheryl",
+                "img": "",
+                "phone": "2-4433",
+                "email": "cheryl.edwards@bc.edu",
+                "title": "Media Services Assistant"
+            },
+            {
+                "id": "",
+                "name": "Hazard, Wes",
+                "img": "",
+                "phone": "2-4433",
+                "email": "wesley.hazard@bc.edu",
+                "title": "Media Services Assistant"
+            },
+            {
+                "id": "",
+                "name": "M'Polo, Genny",
+                "img": "",
+                "phone": "2-4433",
+                "email": "eugenie.mpolo@bc.edu",
+                "title": "Media Services Assistant"
+            }
+        ],
+        "img": "room205.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "200A",
+        "name": "Office",
+        "people": [],
+        "img": "room200.jpg",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "200B",
+        "name": "Office",
+        "people": [],
+        "img": "room200.jpg",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "200C",
+        "name": "Office",
+        "people": [],
+        "img": "room200.jpg",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "200",
+        "name": "Connors Family Learning Center",
+        "people": [],
+        "img": "room200.jpg",
+        "type": "public",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "200D",
+        "name": "Office",
+        "people": [],
+        "img": "room200.jpg",
+        "type": "office",
+        "floor": "2",
+        "notes": ""
+    },
+    {
+        "id": "303",
+        "name": "Reading Room",
+        "people": [],
+        "img": "room303.jpg",
+        "type": "public",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "306",
+        "name": "Interlibrary Loan Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Farabaugh, Duane",
+                "img": "",
+                "phone": "2-4462",
+                "email": "duane.farabaugh@bc.edu",
+                "title": "Interlibrary Loan/Document Delivery Assistant"
+            },
+            {
+                "id": "",
+                "name": "Kenny, Anne",
+                "img": "",
+                "phone": "2-6937",
+                "email": "ann.kenny@bc.edu",
+                "title": "Interlibrary Loan Manager"
+            },
+            {
+                "id": "",
+                "name": "Lee, Jennifer",
+                "img": "",
+                "phone": "2-4465",
+                "email": "jennifer.lee.7@bc.edu",
+                "title": "Interlibrary Loan Lending Specialist"
+            },
+            {
+                "id": "",
+                "name": "MacDowell, Shannon",
+                "img": "",
+                "phone": "2-1355",
+                "email": "shannon.macdowell@bc.edu",
+                "title": "Interlibrary Loan/Document Delivery Assistant"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "306A",
+        "name": "Interlibrary Loan Office",
+        "people": [],
+        "img": "",
+        "type": "office",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "307A",
+        "name": "Interlibrary Loan Office",
+        "people": [],
+        "img": "",
+        "type": "office",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "307",
+        "name": "Classroom",
+        "people": [],
+        "img": "room307.jpg",
+        "type": "office",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "308",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Pope, Este",
+                "img": "",
+                "phone": "2-2081",
+                "email": "este.pope@bc.edu",
+                "title": "Head of Instruction Services"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "309",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Bogdanovsky, Nina",
+                "img": "",
+                "phone": "2-1058",
+                "email": "nina.bogdanovsky@bc.edu",
+                "title": "Senior Reference Librarian/Bibliographer for Asian Studies, Islamic Studies, Jewish Studies, Linguistics, Political Science, and Slavic and Eastern Languages"
+            },
+            {
+                "id": "",
+                "name": "Brandow, Elliot",
+                "img": "",
+                "phone": "2-1907",
+                "email": "elliot.brandow@bc.edu",
+                "title": "Senior Reference Librarian/Bibliographer for History"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "310",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Anderson, Wanda",
+                "img": "",
+                "phone": "2-4457",
+                "email": "wanda.anderson@bc.edu",
+                "title": "Senior Reference Librarian/Bibliographer for Nursing & Health Sciences"
+            },
+            {
+                "id": "",
+                "name": "Karr, Enid",
+                "img": "",
+                "phone": "2-4477",
+                "email": "enid.karr@bc.edu",
+                "title": "Senior Reference Librarian/Bibliographer for Biology, Earth & Environmental Sciences, and Environmental Studies"
+            }
+        ],
+        "img": "",
+        "type": "public",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "311",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Ensins, Sonia",
+                "img": "",
+                "phone": "2-2414",
+                "email": "sonia.ensins@bc.edu",
+                "title": "Senior Reference Librarian/Bibliographer for Business, Music, and the O'Neill Law collection"
+            },
+            {
+                "id": "",
+                "name": "O'Leary, Claire",
+                "img": "",
+                "phone": "2-4484",
+                "email": "claire.oleary@bc.edu",
+                "title": "Senior Reference Librarian/Bibliographer for Business"
+            }
+        ],
+        "img": "",
+        "type": "public",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "312",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Khan, Syed",
+                "img": "",
+                "phone": "2-4450",
+                "email": "syed.khan@bc.edu",
+                "title": "Reference and Instructional Services Librarian"
+            },
+            {
+                "id": "",
+                "name": "Sarkodie-Mensah, Kwasi",
+                "img": "",
+                "phone": "2-4465",
+                "email": "kwasi.sarkodie-mensah@bc.edu",
+                "title": "Manager, Instructional Services/Subject Specialist for Psychology"
+            }
+        ],
+        "img": "",
+        "type": "public",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "313",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Mento, Barbara",
+                "img": "",
+                "phone": "2-3354",
+                "email": "barbara.mento@bc.edu",
+                "title": "Senior Reference Librarian/Bibliographer for Computer Science, Economics, and Mathematics"
+            },
+            {
+                "id": "",
+                "name": "Runge, Steve",
+                "img": "",
+                "phone": "2-2183",
+                "email": "steve.runge@bc.edu",
+                "title": "Reference & Instruction Librarian"
+            }
+        ],
+        "img": "",
+        "type": "public",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "3circ-desk",
+        "name": "Circulation Desk",
+        "people": [],
+        "img": "circ.jpg",
+        "type": "public",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "3ref-desk",
+        "name": "Reference Desk",
+        "people": [],
+        "img": "reference.jpg",
+        "type": "public",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "304",
+        "name": "Circulation Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Bartolini, Anna",
+                "img": "",
+                "phone": "2-8038",
+                "email": "anna.bartolini-barboza.2@bc.edu",
+                "title": "Circulation Assistant"
+            },
+            {
+                "id": "",
+                "name": "Bridden, Paul",
+                "img": "",
+                "phone": "2-4186",
+                "email": "paul.bridden@bc.edu",
+                "title": "Manager, Circulation & Collection Maintenance Services"
+            },
+            {
+                "id": "",
+                "name": "Cavanaugh, Kate",
+                "img": "",
+                "phone": "2-1799",
+                "email": "kathleen.cavanaugh@bc.edu",
+                "title": "Access Services Assistant"
+            },
+            {
+                "id": "",
+                "name": "Hayes, Linda",
+                "img": "",
+                "phone": "2-4962",
+                "email": "linda.hayes@bc.edu",
+                "title": "Course Reserves Assistant"
+            },
+            {
+                "id": "",
+                "name": "Howard, Amy",
+                "img": "",
+                "phone": "2-2125",
+                "email": "amy.howard@bc.edu",
+                "title": "Course Reserves Assistant"
+            },
+            {
+                "id": "",
+                "name": "Jones, Cindy",
+                "img": "",
+                "phone": "2-2297",
+                "email": "cindy.jones@bc.edu",
+                "title": "Course Reserves Supervisor"
+            },
+            {
+                "id": "",
+                "name": "Kohl, Jeff",
+                "img": "",
+                "phone": "2-2259",
+                "email": "jeffrey.kohl@bc.edu",
+                "title": "Evening Circulation Supervisor"
+            },
+            {
+                "id": "",
+                "name": "Lefebvre, Gail",
+                "img": "",
+                "phone": "2-1200",
+                "email": "gail.lefebvre@bc.edu",
+                "title": "Access Services Specialist"
+            },
+            {
+                "id": "",
+                "name": "Marsh, Ron",
+                "img": "",
+                "phone": "2-2259",
+                "email": "ronald.marsh@bc.edu",
+                "title": "Circulation Assistant"
+            },
+            {
+                "id": "",
+                "name": "McAleer, Beth",
+                "img": "",
+                "phone": "2-0502",
+                "email": "beth.mcaleer@bc.edu",
+                "title": "Course Reserves Assistant"
+            },
+            {
+                "id": "",
+                "name": "Remington, Joshua",
+                "img": "",
+                "phone": "2-8038",
+                "email": "joshua.remington@bc.edu",
+                "title": "Evening Access Services Assistant"
+            },
+            {
+                "id": "",
+                "name": "Saffo, Kevin",
+                "img": "",
+                "phone": "2-8038",
+                "email": "kevin.saffo@bc.edu",
+                "title": "Evening Access Services Assistant"
+            },
+            {
+                "id": "",
+                "name": "Spiegel, Michael",
+                "img": "",
+                "phone": "2-2319",
+                "email": "michael.spiegel@bc.edu",
+                "title": "Library Assistant"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "304A",
+        "name": "Circulation Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Strittmatter, Connie",
+                "img": "",
+                "phone": "2-4834",
+                "email": "connie.strittmatter@bc.edu",
+                "title": "Head Librarian, Access Services & Collection Maintenance"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "3",
+        "notes": ""
+    },
+    {
+        "id": "403",
+        "name": "Graduate Study Room",
+        "people": [],
+        "img": "room403.jpg",
+        "type": "public",
+        "floor": "4",
+        "notes": ""
+    },
+    {
+        "id": "406",
+        "name": "Library Conference Room",
+        "people": [],
+        "img": "room406.jpg",
+        "type": "public",
+        "floor": "4",
+        "notes": ""
+    },
+    {
+        "id": "407",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Morris, Jane",
+                "img": "",
+                "phone": "2-4481",
+                "email": "jane.morris@bc.edu",
+                "title": "Scholarly Communication Librarian"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "4",
+        "notes": ""
+    },
+    {
+        "id": "408",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Wyman, Sally",
+                "img": "",
+                "phone": "2-4452",
+                "email": "sally.wyman.1@bc.edu",
+                "title": "Collection Development Librarian/Subject Specialist for Chemistry, Environmental Studies, and Physics"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "4",
+        "notes": ""
+    },
+    {
+        "id": "409",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Goode, Lyn",
+                "img": "",
+                "phone": "2-0160",
+                "email": "marilyn.goode@bc.edu",
+                "title": "Manager, Business & Administrative Services"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "4",
+        "notes": ""
+    },
+    {
+        "id": "410A",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Wall, Tom",
+                "img": "",
+                "phone": "2-4470",
+                "email": "thomas.wall.2@bc.edu",
+                "title": "University Librarian"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "4",
+        "notes": ""
+    },
+    {
+        "id": "410B",
+        "name": "Office",
+        "people": [],
+        "img": "",
+        "type": "office",
+        "floor": "4",
+        "notes": ""
+    },
+    {
+        "id": "410",
+        "name": "Library Administrative Office",
+        "people": [
+            {
+                "id": "",
+                "name": "McMahon, Tricia",
+                "img": "",
+                "phone": "2-4470",
+                "email": "tricia.mcmahon@bc.edu",
+                "title": "Fiscal/Staff Assistant"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "4",
+        "notes": ""
+    },
+    {
+        "id": "410C",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Conroy, Christine",
+                "img": "",
+                "phone": "2-1942",
+                "email-a": "christine.conroy@bc.edu",
+                "title": "Associate University Librarian for Collection & Administrative Services"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "4",
+        "notes": ""
+    },
+    {
+        "id": "410D",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Britton, Scott",
+                "img": "",
+                "phone": "2-3155",
+                "email": "scott.britton@bc.edu",
+                "title": "Associate University Librarian for Instruction, Access, & User Engagement"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "4",
+        "notes": ""
+    },
+    {
+        "id": "413",
+        "name": "Library Conference Room",
+        "people": [],
+        "img": "room413.jpg",
+        "type": "public",
+        "floor": "4",
+        "notes": ""
+    },
+    {
+        "id": "414",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Rapple, Brendan",
+                "img": "",
+                "phone": "2-4482",
+                "email": "brendan.rapple@bc.edu",
+                "title": "Collection Development Librarian/Subject Specialist for Education and English"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "4",
+        "notes": ""
+    },
+    {
+        "id": "414A",
+        "name": "Office",
+        "people": [
+            {
+                "id": "",
+                "name": "Barciauskas, Jonas",
+                "img": "",
+                "phone": "2-4447",
+                "email": "jonas.barciauskas@bc.edu",
+                "title": "Head, Collection Development/Subject Specialist for Classical Studies, German Studies, Philosophy and Theology"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "4",
+        "notes": ""
+    },
+    {
+        "id": "503",
+        "name": "Library Systems",
+        "people": [
+            {
+                "id": "",
+                "name": "Florin, Benjamin",
+                "img": "",
+                "phone": "2-4582",
+                "email": "benjamin.florin@bc.edu",
+                "title": "Web Developer"
+            },
+            {
+                "id": "",
+                "name": "Homan, Sherm",
+                "img": "",
+                "phone": "2-8787",
+                "email": "sherm.homan@bc.edu",
+                "title": "Technology Consultant"
+            },
+            {
+                "id": "",
+                "name": "Houston-Ponchak, Christopher",
+                "img": "",
+                "phone": "2-0127",
+                "email": "christoph.houston-ponchak@bc.edu",
+                "title": "Web Design & Communications Specialist"
+            },
+            {
+                "id": "",
+                "name": "Kidd, Kevin",
+                "img": "",
+                "phone": "2-1359",
+                "email": "kevin.kidd@bc.edu",
+                "title": "Head, Systems & Applications"
+            },
+            {
+                "id": "",
+                "name": "Lyman, Theresa",
+                "img": "",
+                "phone": "2-6334",
+                "email": "theresa.lyman@bc.edu",
+                "title": "Electronic Resources and Systems Librarian"
+            },
+            {
+                "id": "",
+                "name": "Manino, Glenn",
+                "img": "",
+                "phone": "2-6361",
+                "email": "glenn.manino@bc.edu",
+                "title": "Library Systems Integration Analyst"
+            },
+            {
+                "id": "",
+                "name": "Martinez, Jesse",
+                "img": "",
+                "phone": "2-2509",
+                "email": "jesse.martinez@bc.edu",
+                "title": "Web Services Librarian"
+            },
+            {
+                "id": "",
+                "name": "Mendoza, Alberto",
+                "img": "",
+                "phone": "2-8787",
+                "email": "alberto.mendoza@bc.edu",
+                "title": "Technology Consultant"
+            }
+        ],
+        "img": "",
+        "type": "office",
+        "floor": "5",
+        "notes": ""
+    },
+    {
+        "id": "505",
+        "name": "Study Room",
+        "people": [],
+        "img": "room505.jpg",
+        "type": "public",
+        "floor": "5",
+        "notes": ""
+    },
+    {
+        "id": "506",
+        "name": "Study Room",
+        "people": [],
+        "img": "room506.jpg",
+        "type": "public",
+        "floor": "5",
+        "notes": ""
+    },
+    {
+        "id": "507",
+        "name": "Study Room",
+        "people": [],
+        "img": "room507.jpg",
+        "type": "public",
+        "floor": "5",
+        "notes": ""
+    },
+    {
+        "id": "508",
+        "name": "Study Room",
+        "people": [],
+        "img": "room508.jpg",
+        "type": "public",
+        "floor": "5",
+        "notes": ""
+    },
+    {
+        "id": "509",
+        "name": "Study Room",
+        "people": [],
+        "img": "room509.jpg",
+        "type": "public",
+        "floor": "5",
+        "notes": ""
+    },
+    {
+        "id": "510",
+        "name": "Study Room",
+        "people": [],
+        "img": "room510.jpg",
+        "type": "public",
+        "floor": "5",
+        "notes": ""
+    },
+    {
+        "id": "511",
+        "name": "Graduate Study Room",
+        "people": [],
+        "img": "room511.jpg",
+        "type": "public",
+        "notes": ""
+    },
+    {
+        "id": "512",
+        "name": "Study Room",
+        "people": [],
+        "img": "room512.jpg",
+        "type": "public",
+        "floor": "5",
+        "notes": ""
+    },
+    {
+        "id": "513",
+        "name": "Study Room",
+        "people": [],
+        "img": "room513.jpg",
+        "type": "public",
+        "floor": "5",
+        "notes": ""
+    },
+    {
+        "id": "578",
+        "name": "Offices",
+        "people": [],
+        "img": "",
+        "type": "public",
+        "floor": "5",
+        "notes": ""
+    },
+    {
+        "id": "575",
+        "name": "ITS Reception",
+        "people": [],
+        "img": "",
+        "type": "public",
+        "floor": "5",
+        "notes": ""
+    }
+]

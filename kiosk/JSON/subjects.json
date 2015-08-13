@@ -1,0 +1,557 @@
+{
+    "Area & Cultural Studies": {
+        "African & African Diaspora Studies": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Lawrence Busenbark",
+                    "location": "212",
+                    "extension": "2-2253",
+                    "subject": "African & African Diaspora Studies"
+                }
+            ]
+        },
+        "Asian Studies": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Nina Bogdanovsky",
+                    "location": "309",
+                    "extension": "2-1058",
+                    "subject": "Asian Studies"
+                }
+            ]
+        },
+        "Irish Studies": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Kathleen Williams",
+                    "location": "burns",
+                    "display": "Burns 103",
+                    "extension": "2-4833",
+                    "subject": "Irish Studies"
+                },
+                {
+                    "name": "Elizabeth Sweeney",
+                    "location": "burns",
+                    "extension": "2-3956",
+                    "subject": "Irish Studies (Music)"
+                }
+            ]
+        },
+        "Islamic Civilization & Societies": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Nina Bogdanovsky",
+                    "location": "309",
+                    "extension": "2-1058",
+                    "subject": "Islamic Civilization & Societies"
+                }
+            ]
+        },
+        "Jewish Studies": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Nina Bogdanovsky",
+                    "location": "309",
+                    "extension": "2-1058",
+                    "subject": "Jewish Studies"
+                }
+            ]
+        },
+        "Latin American Studies": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Lawrence Busenbark",
+                    "location": "212",
+                    "extension": "2-2253",
+                    "subject": "Latin American Studies"
+                }
+            ]
+        },
+        "Slavic and Eastern Languages & Literatures": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Nina Bogdanovsky",
+                    "location": "309",
+                    "extension": "2-1058",
+                    "subject": "Slavic and Eastern Languages & Literatures"
+                }
+            ]
+        }
+    },
+    "Humanities": {
+        "Art & Architecture": {
+            "stack": {
+                "library": "bapst",
+                "message": "The Art and Architecture collection is housed in the Bapst Library."
+            },
+            "specialists": [
+                {
+                    "name": "Adeane Bregman",
+                    "location": "bapst",
+                    "extension": "2-3136",
+                    "subject": "Art & Architecture"
+                }
+            ]
+        },
+        "Classical Studies": {
+            "stack": {
+                "location": "papl",
+                "display": "PA"
+            },
+            "specialists": [
+                {
+                    "name": "Jonas Barciauskas",
+                    "location": "406",
+                    "extension": "2-4447",
+                    "subject": "Classical Studies"
+                }
+            ]
+        },
+        "English Language & Literature": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Brendan Rapple",
+                    "location": "409",
+                    "extension": "2-4482",
+                    "subject": "English Language & Literature"
+                }
+            ]
+        },
+        "Film": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Adeane Bregman",
+                    "location": "bapst",
+                    "extension": "2-3136",
+                    "subject": "Film"
+                }
+            ]
+        },
+        "German Studies": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Jonas Barciauskas",
+                    "location": "406",
+                    "extension": "2-4447",
+                    "subject": "German Studies"
+                }
+            ]
+        },
+        "History": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Elliot Brandow",
+                    "location": "309",
+                    "extension": "2-1907",
+                    "subject": "History"
+                }
+            ]
+        },
+        "Linguistics": {
+            "stack": {
+                "location": "ppa",
+                "display": "P"
+            },
+            "specialists": [
+                {
+                    "name": "Nina Bogdanovsky",
+                    "location": "309",
+                    "extension": "2-1058",
+                    "subject": "Linguistics"
+                }
+            ]
+        },
+        "Music": {
+            "stack": {
+                "location": "kpml",
+                "display": "M"
+            },
+            "specialists": [
+                {
+                    "name": "Sonia Ensins",
+                    "location": "311",
+                    "extension": "2-2414",
+                    "subject": "Music"
+                }
+            ]
+        },
+        "Philosophy": {
+            "stack": {
+                "location": "bbf",
+                "display": "B-BD"
+            },
+            "specialists": [
+                {
+                    "name": "Jonas Barciauskas",
+                    "location": "406",
+                    "extension": "2-4447",
+                    "subject": "Philosophy"
+                }
+            ]
+        },
+        "Romance Languages & Literatures": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Lawrence Busenbark",
+                    "location": "212",
+                    "extension": "2-2253",
+                    "subject": "Romance Languages & Literatures"
+                }
+            ]
+        },
+        "Theater & Dance": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Brendan Rapple",
+                    "location": "409",
+                    "extension": "2-4482",
+                    "subject": "Theater & Dance"
+                }
+            ]
+        },
+        "Theology/Theology & Ministry": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Jonas Barciauskas",
+                    "location": "406",
+                    "extension": "2-4447",
+                    "subject": "Theology @ O'Neill"
+                },
+                {
+                    "name": "Steve Dalton",
+                    "location": "tml",
+                    "extension": "2-6541",
+                    "subject": "Theology @ Theology & Ministry Library"
+                }
+            ]
+        }
+    },
+    "Sciences": {
+        "Biology": {
+            "stack": {
+                "location": "qhr",
+                "display": "QK-QR"
+            },
+            "specialists": [
+                {
+                    "name": "Enid Karr",
+                    "location": "310",
+                    "extension": "2-4477",
+                    "subject": "Biology"
+                }
+            ]
+        },
+        "Chemistry": {
+            "stack": {
+                "location": "qcqh",
+                "display": "QD"
+            },
+            "specialists": [
+                {
+                    "name": "Sally Wyman",
+                    "location": "408",
+                    "extension": "2-4452",
+                    "subject": "Chemistry"
+                }
+            ]
+        },
+        "Computer Science/IT": {
+            "stack": {
+                "location": "qcqh",
+                "display": "QD"
+            },
+            "specialists": [
+                {
+                    "name": "Barbara Mento",
+                    "location": "313",
+                    "extension": "2-3354",
+                    "subject": "Computer Science/IT"
+                }
+            ]
+        },
+        "Computer Science/IT": {
+            "stack": {
+                "location": "qaqc",
+                "display": "QA 71-90"
+            },
+            "specialists": [
+                {
+                    "name": "Barbara Mento",
+                    "location": "313",
+                    "extension": "2-3354",
+                    "subject": "Computer Science/IT"
+                }
+            ]
+        },
+        "Earth & Environmental Sciences": {
+            "stack": {
+                "location": "qcqh",
+                "display": "QE"
+            },
+            "specialists": [
+                {
+                    "name": "Enid Karr",
+                    "location": "310",
+                    "extension": "2-4477",
+                    "subject": "Earth & Environmental Sciences"
+                }
+            ]
+        },
+        "Environmental Studies": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Sally Wyman",
+                    "location": "408",
+                    "extension": "2-4452",
+                    "subject": "Environmental Studies"
+                },
+                {
+                    "name": "Enid Karr",
+                    "location": "310",
+                    "extension": "2-4477",
+                    "subject": "Environmental Studies"
+                }
+            ]
+        },
+        "Mathematics": {
+            "stack": {
+                "location": "qaqc",
+                "display": "QA"
+            },
+            "specialists": [
+                {
+                    "name": "Barbara Mento",
+                    "location": "313",
+                    "extension": "2-3354",
+                    "subject": "Mathematics"
+                }
+            ]
+        },
+        "Nursing": {
+            "stack": {
+                "location": "rkvm",
+                "display": "RT"
+            },
+            "specialists": [
+                {
+                    "name": "Wanda Anderson",
+                    "location": "310",
+                    "extension": "2-4457",
+                    "subject": "Nursing"
+                }
+            ]
+        },
+        "Physics": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Sally Wyman",
+                    "location": "408",
+                    "extension": "2-4452",
+                    "subject": "Physics"
+                }
+            ]
+        }
+    },
+    "Social Sciences": {
+        "Business & Management": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Claire O'Leary",
+                    "location": "311",
+                    "extension": "2-4484",
+                    "subject": "Business & Management"
+                },
+                {
+                    "name": "Sonia Ensins",
+                    "location": "311",
+                    "extension": "2-2414",
+                    "subject": "Business & Management"
+                }
+            ]
+        },
+        "Communication": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Adeane Bregman",
+                    "location": "bapst",
+                    "extension": "2-3136",
+                    "subject": "Communication"
+                },
+                {
+                    "name": "Kwasi Sarkodie-Mensah",
+                    "location": "312",
+                    "extension": "2-4465",
+                    "subject": "Communication"
+                }
+            ]
+        },
+        "Data/Statistics/GIS": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Barbara Mento",
+                    "location": "313",
+                    "extension": "2-3354",
+                    "subject": "Data/Statistics/GIS"
+                }
+            ]
+        },
+        "Economics": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Barbara Mento",
+                    "location": "313",
+                    "extension": "2-3354",
+                    "subject": "Economics"
+                }
+            ]
+        },
+        "Education": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Margaret Cohen",
+                    "location": "erc",
+                    "extension": "2-4919",
+                    "subject": "Education @ the Educational Resource Center"
+                },
+                {
+                    "name": "Brendan Rapple",
+                    "location": "409",
+                    "extension": "2-4482",
+                    "subject": "Education @ O'Neill Library"
+                }
+            ]
+        },
+        "Gender Studies": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Leslie Homzie",
+                    "location": "swl",
+                    "extension": "2-3234",
+                    "subject": "Gender Studies"
+                }
+            ]
+        },
+        "Government Documents": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Barbara Mento",
+                    "location": "313",
+                    "extension": "2-3354",
+                    "subject": "Government Documents"
+                }
+            ]
+        },
+        "Law": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Sonia Ensins",
+                    "location": "311",
+                    "extension": "2-2414",
+                    "subject": "Law"
+                }
+            ]
+        },
+        "Law": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Sonia Ensins",
+                    "location": "311",
+                    "extension": "2-2414",
+                    "subject": "Law (O'Neill Collection)"
+                }
+            ]
+        },
+        "Political Science": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Nina Bogdanovsky",
+                    "location": "309",
+                    "extension": "2-1058",
+                    "subject": "Political Science"
+                }
+            ]
+        },
+        "Psychology": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Kwasi Sarkodie-Mensah",
+                    "location": "312",
+                    "extension": "2-4465",
+                    "subject": "Psychology @ O'Neill"
+                },
+                {
+                    "name": "Kate Silfen",
+                    "location": "swl",
+                    "extension": "2-0792",
+                    "subject": "Psychology @ Social Work Library"
+                }
+            ]
+        },
+        "Sociology & Anthropology": {
+            "stack": {
+            },
+            "specialists": [
+                {
+                    "name": "Kate Silfen",
+                    "location": "swl",
+                    "extension": "2-0792",
+                    "subject": "Sociology & Anthropology"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html lang="en-us" class="no-js ie6"> <![endif]-->
+<!--[if IE 7]>    <html lang="en-us" class="no-js ie7"> <![endif]-->
+<!--[if IE 8]>    <html lang="en-us" class="no-js ie8"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-us" class="no-js"> <!--<![endif]-->
+<head>
+
+
+    <title>BC Shuttle</title>
+
+    <meta property="og:title" content="BC Shuttle"/>
+    <meta property="og:type" content="product"/>
+    <meta property="og:image" content="http://static.transloc.com/tvspublic/_common/images/transloc-logo-vertical.png"/>
+    <meta property="og:url" content="http://bc.transloc.com"/>
+    <meta property="og:site_name" content="TransLoc"/>
+
+
+    <!--[if IE]><script src="//static.transloc.com/tvspublic/_common/js/thirdparty/css3-mediaqueries.js" type="text/javascript"></script><![endif]-->
+    <link href="//static.transloc.com/tvspublic/bc/css/styles.css?v=1.2" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 8]><link rel="stylesheet" media="all" href="//static.transloc.com/tvspublic/_common/css/styles_ie.css?v=1.2" type="text/css"/><![endif]-->
+
+    <link rel="image_src" type="image/png" href="http://transloc.com/templates/transloc/images/transloc_logo.png?v=1.2" />
+    <link rel="SHORTCUT ICON" href="//static.transloc.com/tvspublic/_common/favicon.ico?v=1.2" />
+    <link rel="alternate" type="application/rss+xml" href="/announcements/rss" title="Announcements (RSS)" />
+
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+
+
+</head>
+<body class="map" >
+<div id="page">
+
+    <a name="content"></a>
+
+    <div id="map" style="top: 0">
+        <p><strong>JavsScript Required</strong></p>
+        <p>Enable JavaScript in your browser to view the map.</p>
+    </div>
+    <script type="text/javascript">
+        document.getElementById('map').innerHTML = '';
+    </script>
+
+    <div id="broken-map-warning" class="alert alert-block" style="display: none; max-width: 800px; margin: auto; line-height: 1.4;">
+        <h1>Warning</h1>
+        <p>
+            There was a problem loading the map. Try refreshing to page to fix the problem.
+            If the problem persists, please let us know by sending an email to <a href="mailto:support@transloc.com">support@transloc.com</a> describing the problem.
+        </p>
+    </div>
+
+
+</div>
+
+
+<script type="text/javascript">
+    function share_click(link) {
+        window.open(link.href,'sharer','toolbar=0,status=0,width=626,height=436');
+        return false;
+    }
+</script>
+
+<script src="//static.transloc.com/tvspublic/_common/js/thirdparty/jquery-1.6.2.min.js"></script>
+<script src="//static.transloc.com/tvspublic/_common/js/thirdparty/jquery.media.js"></script>
+
+
+<link href="//static.transloc.com/jsmap/css/style.css?v=1.2" rel="stylesheet" type="text/css">
+<script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="a34b855b51f9bc7dd5342cb6f428de7a"></script>
+<script src="//static.transloc.com/jsmap/js/main.js?v=1.2"></script>
+<script>
+    $(function() {
+        if (window.jsmap) {
+            jsmap('#map', {"flat": "simple", "max_zoom": 17, "agencies": [32], "show_speed": false, "min_zoom": 10, "feeds_base_url": "//feeds.transloc.com/3/", "stop_popup_mode": "simple", "route_default_on": true, "bounds": [42.326856, -71.198573, 42.347, -71.137462], "label": "none", "load_indicator": "percent", "arrival_predictions": true, "announcements": true, "public_only": true});
+        } else {
+            $('#map').hide();
+            $('#broken-map-warning').show();
+            if (window.Bugsnag) {
+                window.Bugsnag.notify('jsmapUndefined', false, {}, 'warning');
+            }
+        }
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,527 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+        <meta name="viewport" content="width=2048">
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Boston College Libraries Kiosk</title>
+	</head>
+
+        <script src="bower_components/d3/d3.min.js" charset="utf-8"></script>
+        <script src="bower_components/jquery/jquery.min.js"></script>
+        <script src="bower_components/jquery-mobile-bower/js/jquery.mobile-1.4.2.min.js"></script>
+
+        <script defer="defer" src="bower_components/swiper/dist/idangerous.swiper.min.js"></script>
+
+        <script src="JS/Libraries/heatmap.js"></script>
+		<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyAcgLnuy3wc7UbfjsT7gJhjL9hRjCmH0KI&sensor=false"></script>
+		<script src="JS/Libraries/maplabel-compiled.js"></script>
+
+		<link href="CSS/idangerous.swiper.css" rel="stylesheet">
+		<link href="CSS/styles.css" rel="stylesheet" type="text/css">
+
+	<body id ="page">
+
+<!-- HIDING TO STREAM LINE THE ABILITY TO UPDATE ON THE FLY. UNHIDE LATER
+		<div id="campus">
+			<div id="mapcontrol">
+				<div id="button_close"></div>
+
+				<div id="directions">
+					<p>
+						<strong>directions to:</strong>
+					</p>
+					<ul>
+						<li id="oneill">
+							O'Neill Library
+						</li>
+						<li id="bapst">
+							bapst library
+						</li>
+						<li id="burns">
+							burns library
+						</li>
+						<li id="erc">
+							Educational Resource Center
+						</li>
+						<li id="swl">
+							Social work library
+						</li>
+						<li id="tml">
+							Theology and Ministry Library
+						</li>
+					</ul>
+
+				</div>
+
+				<div id="switch">
+					<p>
+						switch to:
+					</p>
+					<div id="roadmap"></div>
+					<div id="satmap"></div>
+				</div>
+
+				<div id="magnifying">
+					<img src="Images/CampusMap/magnify_in.png" id="magnify_in" />
+					<img src="Images/CampusMap/magnify_out.png" id="magnify_out" />
+				</div>
+
+				<div id="controls">
+					<img src="Images/CampusMap/arrow_up.png" id="arrow_up" />
+					<img src="Images/CampusMap/arrow_left.png" id="arrow_left" />
+					<img src="Images/CampusMap/arrow_right.png" id="arrow_right" />
+					<img src="Images/CampusMap/arrow_down.png" id="arrow_down" />
+				</div>
+
+			</div>
+
+		</div> -->
+
+	<div class="sidebar">
+
+		<!-- LEGEND -->
+		<div id="legend">
+			<h1>legend</h1>
+
+			<div id="legendcol1">
+
+				<ul>
+					<li id="here">
+						You are here
+					</li>
+					<li id="shelf">
+						Shelf
+					</li>
+					<li id="el">
+						Elevator
+					</li>
+					<li id="bath">
+						Bathrooms
+					</li>
+					<li id="study">
+						Study area
+					</li>
+				</ul>
+			</div>
+
+			<div id="legendcol2">
+				<ul>
+					<li id="comp">
+						Guest Computer
+					</li>
+					<li id="print">
+						Printer
+					</li>
+					<li id="scanner">
+						Scanner
+					</li>
+					<li id="copier">
+						Copier
+					</li>
+					<li id="vend">
+						Vending Machine
+					</li>
+				</ul>
+
+			</div>
+		</div>
+
+		<!-- HOURS BOX -->
+		<div id="hours">
+			<h1>Library hours</h1>
+			<ul id="hourslist"></ul>
+		</div>
+
+		<!-- EVENTS CALENDAR | HIDING FOR NOW, SINCE IT IS NOT UPDATED
+		<div id="eventsbox">
+			<div id="events">
+				<ul id="eventslist"></ul>
+			</div>
+		</div>-->
+
+		<div id="outside">
+			<h1>Outside the Library</h1>
+
+			<ul>
+				<li id="campusMap">
+					<p>
+						<a>Campus Map</a>
+					</p>
+				</li>
+                <li id="busMap">
+                    <p>
+                        <a>Bus Map</a>
+                    </p>
+                </li>
+			</ul>
+		</div>
+
+	</div>
+	<!-- END SIDEBAR -->
+
+		<!-- SWIPER -->
+		<div class="swiper-container">
+			<div class="swiper-wrapper">
+				<!--First Slide-->
+				<div class="swiper-slide" id="Floor1"></div>
+				<!--Second Floor-->
+				<div class="swiper-slide" id="Floor2"></div>
+				<!--Third Floor-->
+				<div class="swiper-slide" id="Floor3"></div>
+				<!--Fourth Floor-->
+				<div class="swiper-slide" id="Floor4"></div>
+				<!--Fifth Floor-->
+				<div class="swiper-slide" id="Floor5"></div>
+			</div>
+		</div>
+
+		<!-- MENU CODE -->
+		<div class="outer">
+			<ul id="nav">
+
+				<!--<li id="roomFinder">
+					<p>
+						Rooms
+					</p>
+				</li>--><!--
+				<li id="peopleFinder">
+					<p>
+						People
+					</p>
+				</li>
+				<li id="computerAvailability">
+					<p>
+						Computer Availability
+					</p>
+				</li>
+				<li id="stackFinder">
+					<p>
+						Call Number
+					</p>
+				</li>
+				<li id="subjects">
+					<p>
+						Subjects
+					</p>
+				</li>
+				<li id="studyRooms">
+					<p>
+						<a >Study Rooms</a>
+					</p>
+				</li>-->
+			</ul>
+
+			<div id="floors">
+				<ul>
+					<li id="on1">
+						<a>O'Neill Level 1</a>
+					</li>
+					<li id="on2">
+						<a>O'Neill Level 2</a>
+					</li>
+					<li id="on3">
+						<a>O'Neill Level 3</a>
+					</li>
+					<li id="on4">
+						<a>O'Neill Level 4</a>
+					</li>
+					<li id="on5">
+						<a>O'Neill Level 5</a>
+					</li>
+				</ul>
+
+			</div>
+			<img id="helpIcon" src="Images/help.png"></img>
+		</div>
+		<!-- People finder -->
+		<div id="people-modal-window">
+			<div id="alpha">
+				<ol>
+					<li>
+						<a href="#a">A</a>
+					</li>
+					<li>
+						<a href="#b">B</a>
+					</li>
+					<li>
+						<a href="#c">C</a>
+					</li>
+					<li>
+						<a href="#d">D</a>
+					</li>
+					<li>
+						<a href="#e">E</a>
+					</li>
+					<li>
+						<a href="#f">F</a>
+					</li>
+					<li>
+						<a href="#g">G</a>
+					</li>
+					<li>
+						<a href="#h">H</a>
+					</li>
+					<li>
+						<a href="#i">I</a>
+					</li>
+					<li>
+						<a href="#j">J</a>
+					</li>
+					<li>
+						<a href="#k">K</a>
+					</li>
+					<li>
+						<a href="#l">L</a>
+					</li>
+					<li>
+						<a href="#m">M</a>
+					</li>
+					<li>
+						<a href="#n">N</a>
+					</li>
+					<li>
+						<a href="#o">O</a>
+					</li>
+					<li>
+						<a href="#p">P</a>
+					</li>
+					<li>
+						<a href="#q">Q</a>
+					</li>
+					<li>
+						<a href="#r">R</a>
+					</li>
+					<li>
+						<a href="#s">S</a>
+					</li>
+					<li>
+						<a href="#t">T</a>
+					</li>
+					<li>
+						<a href="#u">U</a>
+					</li>
+					<li>
+						<a href="#v">V</a>
+					</li>
+					<li>
+						<a href="#w">W</a>
+					</li>
+					<li>
+						<a href="#x">X</a>
+					</li>
+					<li>
+						<a href="#y">Y</a>
+					</li>
+					<li>
+						<a href="#z">Z</a>
+					</li>
+
+				</ol>
+			</div>
+
+			<h1>Find People</h1>
+		</div>
+		<!-- CALL NUMBER LIST -->
+		<div id="callnumbermodul">
+			<h1>Find Call Numbers</h1>
+
+			<div id="column1">
+				<ul>
+					<li>
+						A - B
+					</li>
+					<li>
+						B - BF
+					</li>
+					<li>
+						BF - BL
+					</li>
+					<li>
+						BL - BS
+					</li>
+					<li>
+						BS - BX
+					</li>
+					<li>
+						BX - D
+					</li>
+					<li>
+						D - DA
+					</li>
+					<li>
+						DA - DX
+					</li>
+					<li>
+						E - F
+					</li>
+					<li>
+						G - GV
+					</li>
+					<li>
+						GV - HB
+					</li>
+				</ul>
+
+			</div>
+
+			<div id="column2">
+				<ul>
+					<li>
+						HB - HC
+					</li>
+					<li>
+						HC - HD
+					</li>
+					<li>
+						HD - HM
+					</li>
+					<li>
+						HM - JX
+					</li>
+					<li>
+						JX - KF
+					</li>
+					<li>
+						KF - ML
+					</li>
+					<li>
+						ML - P
+					</li>
+					<li>
+						P - PA
+					</li>
+					<li>
+						PA - PL
+					</li>
+					<li>
+						PN - PQ
+					</li>
+					<li>
+						PQ - PR
+					</li>
+				</ul>
+			</div>
+
+			<div id="column3">
+				<ul>
+					<li>
+						PR
+					</li>
+					<li>
+						PR - PT
+					</li>
+					<li>
+						Q - QA
+					</li>
+					<li>
+						QA - QC
+					</li>
+					<li>
+						QC - QH
+					</li>
+					<li>
+						QH - R
+					</li>
+					<li>
+						R - RJ
+					</li>
+					<li>
+						RK - VM
+					</li>
+					<li>
+						Z
+					</li>
+					<li>
+						Reference
+					</li>
+					<li>
+						Current Periodicals
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<!-- SUBJECT SPECIALIST POP UP-->
+
+		<div id="subjectbox">
+			<h1>Find subject specialists </h1>
+
+			<div id="subjectleft">
+
+				<ul id="subjectlist">
+
+				</ul>
+
+			</div>
+
+			<div id="subjectright">
+
+			</div>
+
+		</div>
+	</body>
+
+	<!-- HEATMAP -->
+	<script src="JS/Main/HeatMap.js"></script>
+
+	<!-- DATA -->
+	<script src="JS/Main/Data.js"></script>
+
+	<!-- STUDY ROOMS -->
+	<script src="JS/Floors/Animation.js"></script>
+
+	<!-- STUDY ROOMS -->
+	<script src="JS/Floors/StudyRooms.js"></script>
+
+	<!-- ROOMS -->
+	<script src="JS/Floors/Room.js"></script>
+
+	<!-- PEOPLE -->
+	<script src="JS/Floors/People.js"></script>
+
+	<!-- COMPUTERS -->
+	<script src="JS/Floors/Computer.js"></script>
+
+	<!-- STACKS -->
+	<script src="JS/Floors/Stacks.js"></script>
+
+	<!-- LEGEND -->
+	<script src="JS/Floors/Legend.js"></script>
+
+	<!-- FLOOR SLIDER -->
+	<script src="JS/Floors/Floors.js"></script>
+
+	<!-- EVENTS BOX -->
+	<script src="JS/Floors/EventsBox.js"></script>
+
+	<!-- SUBJECTS -->
+	<script src="JS/Floors/Subjects.js"></script>
+
+	<!-- MANAGE FLOOR FEATURES -->
+	<script src="JS/Display/FloorManager.js"></script>
+
+	<!-- BUS MAP -->
+	<script src="JS/Display/Buses.js"></script>
+
+	<!-- ABOUT -->
+	<script src="JS/Display/About.js"></script>
+
+	<!-- CAMPUS -->
+	<script src="JS/Display/Campus.js"></script>
+
+	<!-- HELPER FUNCTIONS -->
+	<script src="JS/Main/Helper.js"></script>
+
+	<!-- GENERAL DISPLAY -->
+	<script src="JS/Display/Display.js"></script>
+
+	<!-- MENU EVENTS -->
+	<script src="JS/Display/Menu.js"></script>
+
+	<!-- MAIN -->
+	<script src="JS/Main/Main.js"></script>
+
+	<script text="text/javascript"></script>
+
+</html>
