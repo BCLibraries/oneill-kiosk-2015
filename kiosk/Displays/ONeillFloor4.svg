@@ -28,8 +28,8 @@
 		969,194 	"/>
 	<polygon fill="#4D4D4D" points="965.9,573 847,573 847,291 966.939,291 	"/>
 	<g id="elevator">
-		<rect x="397" y="444" fill="#A4E2F7" width="37" height="43"/>
-		<rect x="331" y="445" fill="#A4E2F7" width="32" height="41"/>
+		<rect id="elevator" x="397" y="444" fill="#A4E2F7" width="37" height="43"/>
+		<rect id="elevator" x="331" y="445" fill="#A4E2F7" width="32" height="41"/>
 	</g>
 	<rect id="room406" x="441" y="855" fill="#BDCDD1" width="72" height="67"/>
 	<rect id="room407" x="400" y="855" fill="#B1D4DD" width="41" height="67"/>

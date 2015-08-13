@@ -26,8 +26,8 @@
 	<rect id="room309" x="841" y="64" fill="#B1D4DD" width="63" height="75"/>
 	<rect id="ref" x="630" y="448" fill="#668FAD" width="119" height="48"/>
 	<g id="elevator">
-		<polygon fill="#A4E2F7" points="397,444 397,474.167 397,488 432,488 432,444 		"/>
-		<polygon fill="#A4E2F7" points="330,474.167 330,488 366,488 366,444 330,444 		"/>
+		<polygon id="elevator" fill="#A4E2F7" points="397,444 397,474.167 397,488 432,488 432,444 		"/>
+		<polygon id="elevator" fill="#A4E2F7" points="330,474.167 330,488 366,488 366,444 330,444 		"/>
 	</g>
 	<polygon fill="#4D4D4D" points="486,443.695 478,444.042 478,487 443,487 443,444 432,444 432,488 397,488 397,500 486,500 	"/>
 	<rect x="330" y="488" fill="#4D4D4D" width="34" height="12"/>

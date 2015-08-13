@@ -33,14 +33,14 @@
 	<rect x="517" y="413" fill="#4D4D4D" width="45" height="39"/>
 	<polygon fill="#4D4D4D" points="560.76,535 518,535 518,575 561.799,575 	"/>
 	<g id="elevator">
-		<polygon fill="#A4E2F7" points="430.908,443.002 395.384,442.148 395.588,485.594 431.195,485.006 		"/>
-		<polygon fill="#A4E2F7" points="330.143,485.335 364.423,485.594 364.463,442.148 329.238,442.343 		"/>
+		<polygon id="elevator" fill="#A4E2F7" points="430.908,443.002 395.384,442.148 395.588,485.594 431.195,485.006 		"/>
+		<polygon id="elevator" fill="#A4E2F7" points="330.143,485.335 364.423,485.594 364.463,442.148 329.238,442.343 		"/>
 	</g>
 	<rect id="room575" x="965" y="490" fill="#B1D4DD" width="59" height="82"/>
 	<polygon id="its" fill="#C7DAE0" points="965,450 1023,450 1023,327 1271,327 1271,183 1520,183 1520,487 1642,487 1642,776 
 		1579,776 1538.999,817.5 1523.666,802 1360,802 1360,490 1024,490 965,490 	"/>
 </g>
-<g id="stairs_x2C__etc_4_">
+<g id="stairs">
 	<g>
 		<rect x="809.5" y="674.5" fill="#CCCCCC" stroke="#333333" stroke-miterlimit="10" width="38" height="6"/>
 		<rect x="809.5" y="668.5" fill="#CCCCCC" stroke="#4D4D4D" stroke-miterlimit="10" width="38" height="6"/>

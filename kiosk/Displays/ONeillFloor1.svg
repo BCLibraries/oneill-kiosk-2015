@@ -19,15 +19,15 @@
 	<polygon fill="#4D4D4D" points="444.549,446.199 433,445.08 433,499 445.451,499 	"/>
 	<polygon fill="#4D4D4D" points="487,468 475,468 475,486 444,486 444,499 487,499 	"/>
 	<g id="bathroom">
-		<polygon fill="#29ABE2" points="444,446 444,487 475,487 475,468 487,468 487,446 		"/>
-		<polygon fill="#29ABE2" points="378,558 338,558 338,620 412,620 412,520 378,520 		"/>
+		<polygon id="bathroom" fill="#29ABE2" points="444,446 444,487 475,487 475,468 487,468 487,446 		"/>
+		<polygon id="bathroom" fill="#29ABE2" points="378,558 338,558 338,620 412,620 412,520 378,520 		"/>
 	</g>
 	<rect x="328" y="488" fill="#4D4D4D" width="36" height="11"/>
 	<rect x="398" y="488" fill="#4D4D4D" width="36" height="11"/>
 	<rect x="339" y="520" fill="#4D4D4D" width="40" height="38"/>
 	<g id="elevator">
-		<polygon fill="#A4E2F7" points="398.704,445 398.315,473.998 399.555,487.977 433,487.672 433,445 		"/>
-		<rect x="328" y="444" fill="#A4E2F7" width="36" height="44"/>
+		<polygon id="elevator" fill="#A4E2F7" points="398.704,445 398.315,473.998 399.555,487.977 433,487.672 433,445 		"/>
+		<rect id="elevator" x="328" y="444" fill="#A4E2F7" width="36" height="44"/>
 	</g>
 	<polygon fill="#4D4D4D" points="387.276,418 346,418 346,372 386.238,372 	"/>
 	<polygon fill="#4D4D4D" points="435,411.838 435,371 386,371 386,413 401.82,413 403.119,418.651 433.732,416.283 	"/>
