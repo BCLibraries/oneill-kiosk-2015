@@ -1,4 +1,4 @@
-/* FETCH LIBRARY HOURS */
+/* FETCH LIBRARY HOURS
 
 $(document).ready(function(){
     // list of library names as reported by the hours api
@@ -35,6 +35,6 @@ $(document).ready(function(){
         success: setHours,
         error: function(){
             $.each("div.mini_hours_container").html("Error retrieving hours");
-        },
+        }
     });
-});
+}); */
