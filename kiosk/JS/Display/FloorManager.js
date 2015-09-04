@@ -21,7 +21,7 @@ var FloorManager = (function () {
         Stacks.initialize();
 
         /* Events box */
-        EventsBox.initialize();
+        //EventsBox.initialize();
 
         /* Subjects */
         Subjects.initialize();

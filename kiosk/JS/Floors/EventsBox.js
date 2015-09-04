@@ -262,6 +262,7 @@ var EventsBox = (function () {
     function autoScroll() {
         var $list, $listSH;
         $list = $("#" + id);
+        console.log(id);
         $listSH = $list[0].scrollHeight - $list.outerHeight();
 
         function loop() {
