@@ -495,21 +495,20 @@ ul#nav li.last, ul#nav li.last ul {
 /* HOURS BOX */
 
 #hours {
-	position: absolute;
-	right: 0;
-	left: 0;
-	top: 435px;
-	margin: 0px auto;
-	width: 400px;
-	min-height: 150px;
-	border: 2px solid #000;
-	background: white;
-	z-index: 11;
-	font-size: 9pt;
-	text-align: left;
-	overflow-y: auto;
-	overflow-x: hidden;
-	box-shadow: 0px 10px 5px rgba(45,45,45,.3);
+    background: white none repeat scroll 0 0;
+    border: 2px solid #000;
+    box-shadow: 0 10px 5px rgba(45, 45, 45, 0.3);
+    font-size: 12pt;
+    height: 250px;
+    left: 0;
+    margin: 0 auto;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    text-align: left;
+    top: 435px;
+    width: 400px;
+    z-index: 11;
 }
 
 #hours h1 {
@@ -529,15 +528,15 @@ ul#nav li.last, ul#nav li.last ul {
 }
 
 #hours ul li {
-	margin: 0px 0 5px 0;
-	width: 100%;
-	display: inline-block;
-	padding: 5px;
-	background: #d6d6d6;
+    background: #eaeaea none repeat scroll 0 0;
+    display: inline-block;
+    margin: 0;
+    padding: 5px;
+    width: 100%;
 }
 
 #hours ul li:nth-child(2n+2) {
-	background: #b7b7b7;
+	background: #fff;
 }
 
 /* OUTSIDE THE LIBRARY BOX */
@@ -546,7 +545,7 @@ ul#nav li.last, ul#nav li.last ul {
 	position: absolute;
 	right: 0;
 	left: 0;
-	top: 600px;
+	top: 710px;
 	margin: 0px auto;
 	width: 400px;
 	height: 228px;
@@ -591,7 +590,7 @@ ul#nav li.last, ul#nav li.last ul {
 	border-bottom: 4px solid #04394e;
 	font-size: 25px;
 	padding: 30px 0 0 0;
-	margin: 5px auto 0;
+	margin: 0px auto 0;
 	display: inline-block;
 }
 

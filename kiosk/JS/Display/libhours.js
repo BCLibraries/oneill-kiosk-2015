@@ -1,4 +1,4 @@
-/* FETCH LIBRARY HOURS
+/* FETCH LIBRARY HOURS */
 
 $(document).ready(function(){
     // list of library names as reported by the hours api
@@ -13,6 +13,7 @@ $(document).ready(function(){
 
     // grab each library's data from the output and place it where it needs to go
     function setHours(data){
+        console.log("HERE")
         $.each(libs, function(index, value){
             var libList = $(data["out"]).find("ul#" + value);
             if (libList && libList.length > 0){
@@ -35,6 +36,7 @@ $(document).ready(function(){
         success: setHours,
         error: function(){
             $.each("div.mini_hours_container").html("Error retrieving hours");
+            console.log("BROKEN")
         }
     });
-}); */
+}); 

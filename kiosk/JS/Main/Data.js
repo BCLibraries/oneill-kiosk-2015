@@ -5,7 +5,7 @@ var Data = ( function () {
         roomsJSON_Path = "JSON/rooms.json",
         stacksJSON_Path = "JSON/stacks.json",
         studyRoomsJSON_URL = "http://arc.bc.edu/rooms/?callback=?",
-        hoursJSON_URL = "http://api.libcal.com/api_hours_today.php?iid=609&format=json&callback=?",
+        hoursJSON_URL = "https://api3.libcal.com/api_hours_today.php?iid=609&format=json&weeks=1&lid=0&callback=?",
         eventsJSON_URL = "http://libstaff.bc.edu/libcal/?callback=?",
         subjectsJSON_Path = "JSON/subjects.json",
         campusJSON_Path = "JSON/CampusMap.json";
@@ -122,6 +122,7 @@ var Data = ( function () {
 
     function retrieveHoursJSON() {
         $.getJSON(hoursJSON_URL, function (data) {
+            console.log(data)
             pub.hoursJSON = data;
         })
     }

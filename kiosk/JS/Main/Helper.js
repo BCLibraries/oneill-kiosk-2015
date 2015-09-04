@@ -3,6 +3,7 @@ var Helper = ( function () {
 
     /* Find the center of an SVG element */
     pub.midPoint = function (element) {
+        return;
         var $e = $(element);
         /* Change boundingclientrect */
         return [$e.offset().top + element.getBoundingClientRect().height / 2,
