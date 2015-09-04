@@ -28,9 +28,14 @@ var Legend = (function () {
 
     function goToYouAreHere() {
         $("#here").on("click", function () {
-            Data.addStateEvent({"type": "legend-select", "target": "You are here."});
+
+       Data.addStateEvent({"type": "legend-select", "target": "You are here."});
+            var originalColor = "#ffff00";
             Display.displayFloor(3);
-        })
+            $("[id^=Floor]").find("[id^=here]").each(function () {
+                Helper.flasher(originalColor, this);
+            })
+        });
     }
 
     function elevatorFlash() {
@@ -77,7 +82,7 @@ var Legend = (function () {
         $("#copier").on("click", function () {
             Data.addStateEvent({"type": "legend-select", "target": "Copier"});
             var originalColor = "#000000";
-            $("[id^=Floor]").find("[id^=copier]").each(function () {
+            $("[id^=Floor]").find("[id^=copymachine]").each(function () {
                 Helper.flasher(originalColor, this);
             })
         });
