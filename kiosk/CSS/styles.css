@@ -149,6 +149,8 @@ ul#nav li.last, ul#nav li.last ul {
 	text-align: center;
 	font-size: 30px;
 	width: 1920px;
+	position: absolute;
+	bottom: 5px;
 }
 
 #floors a {

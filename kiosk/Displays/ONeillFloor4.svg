@@ -724,37 +724,37 @@
 			1525.688,168.627 		"/>
 	</g>
 	<rect x="339.868" y="299.002" fill="none" width="154.618" height="21.001"/>
-	<text transform="matrix(1 0 0 1 403.1313 309.0259)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">E - F</text>
+	<text transform="matrix(1 0 0 1 403.1313 309.0259)" fill="#FFFFFF" font-family="'Arial'" font-size="14">E - F</text>
 	<rect x="519.989" y="353.002" fill="none" width="130.498" height="21.001"/>
-	<text transform="matrix(1 0 0 1 559.7007 363.0259)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">HD - HM</text>
+	<text transform="matrix(1 0 0 1 559.7007 363.0259)" fill="#FFFFFF" font-family="'Arial'" font-size="14">HD - HM</text>
 	<rect x="675.444" y="353.002" fill="none" width="147.163" height="21.001"/>
-	<text transform="matrix(1 0 0 1 725.0366 363.0259)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">HM - JX</text>
+	<text transform="matrix(1 0 0 1 725.0366 363.0259)" fill="#FFFFFF" font-family="'Arial'" font-size="14">HM - JX</text>
 	<rect x="835.292" y="255.002" fill="none" width="146.314" height="21.001"/>
-	<text transform="matrix(1 0 0 1 886.0151 265.0259)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">JX - KF</text>
+	<text transform="matrix(1 0 0 1 886.0151 265.0259)" fill="#FFFFFF" font-family="'Arial'" font-size="14">JX - KF</text>
 	<rect x="997.654" y="394.002" fill="none" width="106.832" height="21.001"/>
-	<text transform="matrix(1 0 0 1 1027.0918 404.0259)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">KF - ML</text>
+	<text transform="matrix(1 0 0 1 1027.0918 404.0259)" fill="#FFFFFF" font-family="'Arial'" font-size="14">KF - ML</text>
 	<rect x="1130.988" y="394.002" fill="none" width="103.498" height="21.001"/>
-	<text transform="matrix(1 0 0 1 1159.5273 404.0259)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">PA - PL</text>
+	<text transform="matrix(1 0 0 1 1159.5273 404.0259)" fill="#FFFFFF" font-family="'Arial'" font-size="14">PA - PL</text>
 	<rect x="1259.988" y="394.002" fill="none" width="159.498" height="21.001"/>
-	<text transform="matrix(1 0 0 1 1315.3594 404.0259)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">PN - PQ</text>
+	<text transform="matrix(1 0 0 1 1315.3594 404.0259)" fill="#FFFFFF" font-family="'Arial'" font-size="14">PN - PQ</text>
 	<rect x="1439.988" y="394.002" fill="none" width="161.498" height="21.001"/>
-	<text transform="matrix(1 0 0 1 1497.5273 404.0259)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">PR - PT </text>
+	<text transform="matrix(1 0 0 1 1497.5273 404.0259)" fill="#FFFFFF" font-family="'Arial'" font-size="14">PR - PT </text>
 	<rect x="998.988" y="643.002" fill="none" width="105.498" height="21.002"/>
-	<text transform="matrix(1 0 0 1 1032.1406 653.0254)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">ML - P</text>
+	<text transform="matrix(1 0 0 1 1032.1406 653.0254)" fill="#FFFFFF" font-family="'Arial'" font-size="14">ML - P</text>
 	<rect x="1128.988" y="643.002" fill="none" width="105.498" height="21.002"/>
-	<text transform="matrix(1 0 0 1 1162.5234 653.0254)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">P - PA</text>
+	<text transform="matrix(1 0 0 1 1162.5234 653.0254)" fill="#FFFFFF" font-family="'Arial'" font-size="14">P - PA</text>
 	<rect x="1259.988" y="643.002" fill="none" width="159.498" height="21.002"/>
-	<text transform="matrix(1 0 0 1 1315.3594 653.0254)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">PQ - PR</text>
+	<text transform="matrix(1 0 0 1 1315.3594 653.0254)" fill="#FFFFFF" font-family="'Arial'" font-size="14">PQ - PR</text>
 	<rect x="1439.988" y="643.002" fill="none" width="159.498" height="21.002"/>
-	<text transform="matrix(1 0 0 1 1510.293 653.0254)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">PR</text>
+	<text transform="matrix(1 0 0 1 1510.293 653.0254)" fill="#FFFFFF" font-family="'Arial'" font-size="14">PR</text>
 	<rect x="340.292" y="646.002" fill="none" width="154.194" height="21.002"/>
-	<text transform="matrix(1 0 0 1 392.6245 656.0254)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">HB - GV </text>
+	<text transform="matrix(1 0 0 1 392.6245 656.0254)" fill="#FFFFFF" font-family="'Arial'" font-size="14">HB - GV </text>
 	<rect x="341.989" y="790.002" fill="none" width="152.498" height="21.002"/>
-	<text transform="matrix(1 0 0 1 393.4761 800.0254)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">HB - HC</text>
+	<text transform="matrix(1 0 0 1 393.4761 800.0254)" fill="#FFFFFF" font-family="'Arial'" font-size="14">HB - HC</text>
 	<rect x="520.444" y="726.002" fill="none" width="76.859" height="21.002"/>
-	<text transform="matrix(1 0 0 1 534.1118 736.0254)" font-family="'Arial-BoldMT'" font-size="14">HC - HD</text>
+	<text transform="matrix(1 0 0 1 534.1118 736.0254)" font-family="'Arial'" font-size="14">HC - HD</text>
 	<rect x="397.261" y="539.002" fill="none" width="96.44" height="21.002"/>
-	<text transform="matrix(1 0 0 1 427.8013 549.0254)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">G-GV</text>
+	<text transform="matrix(1 0 0 1 427.8013 549.0254)" fill="#FFFFFF" font-family="'Arial'" font-size="14">G-GV</text>
 </g>
 <g id="labels_3_">
 	<rect x="195" y="18.063" transform="matrix(1 0.0033 -0.0033 1 0.1177 -1.4258)" fill="none" width="464.498" height="33"/>
