@@ -66,22 +66,39 @@ var Legend = (function () {
     function printerHalo() {
         $("#print").on("click", function () {
             Data.addStateEvent({"type": "legend-select", "target": "Printer"});
+            var originalColor = "#000000";
+            $("[id^=Floor]").find("[id^=printers]").each(function () {
+                Helper.flasher(originalColor, this);
+            })
+        });
+    }
 
-            if (Helper.getIsHalo() == false)
-                $("[id^=Floor]").find("[id^=printers]").children(":not(:last-child):not(:nth-last-child(2))").each(function () {
-                    Helper.halo(this, $(this).parent().parent()[0]);
-                });
-
-            Helper.setIsHalo(true);
+    function copierHalo() {
+        $("#copier").on("click", function () {
+            Data.addStateEvent({"type": "legend-select", "target": "Copier"});
+            var originalColor = "#000000";
+            $("[id^=Floor]").find("[id^=copier]").each(function () {
+                Helper.flasher(originalColor, this);
+            })
+        });
+    }
+    
+    function scannerHalo() {
+        $("#scanner").on("click", function () {
+            Data.addStateEvent({"type": "legend-select", "target": "Scanner"});
+            var originalColor = "#000000";
+            $("[id^=Floor]").find("[id^=scanner]").each(function () {
+                Helper.flasher(originalColor, this);
+            })
         });
     }
 
     function vendingHalo() {
         $("#vend").on("click", function () {
             Data.addStateEvent({"type": "legend-select", "target": "Vending Machine"});
-            var originalColor = "#FFFFFF";
+            var originalColor = "#666666";
             Display.displayFloor(1);
-            $("[id^=Floor]").find("[id^=vending]").children().children(":first-child").next().each(function () {
+            $("[id^=Floor]").find("[id^=vending]").each(function () {
                 Helper.flasher(originalColor, this);
             })
         });
