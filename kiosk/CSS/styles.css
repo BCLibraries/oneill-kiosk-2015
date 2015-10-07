@@ -393,17 +393,17 @@ ul#nav li.last, ul#nav li.last ul {
 /* GENERAL SIDEBAR STYLING */
 
 .sidebar {
-	width: 375px;
+	width: 325px;
 	height: 100%;
 	position: absolute;
 	top: 0;
-	right: 5px;
+	right: 40px;
 }
 
 /* STYLING FOR LEGEND IS GOING HERE */
 
 #legend {
-	width: 400px;
+	width: 325px;
 	min-height: 350px;
 	border: 2px solid #000;
 	right: 0;
@@ -507,7 +507,7 @@ ul#nav li.last, ul#nav li.last ul {
     right: 0;
     text-align: left;
     top: 435px;
-    width: 400px;
+    width: 325px;
     z-index: 11;
 }
 
@@ -547,7 +547,7 @@ ul#nav li.last, ul#nav li.last ul {
 	left: 0;
 	top: 710px;
 	margin: 0px auto;
-	width: 400px;
+	width: 325px;
 	height: 228px;
 	border: 2px solid #000;
 	background: white;
